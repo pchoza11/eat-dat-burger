@@ -1,0 +1,41 @@
+li {
+  padding: 5px;
+  margin: 5px;
+
+  border-radius: 3px;
+
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+body {
+  background-image: url("../images/julesburger.jpg");
+  background-image: center;
+  background-position: right top;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.container {
+  margin-top: 200px;
+  width: 65%;
+  margin-left: auto;
+  margin-right: auto;
+  background: rgba(248, 166, 2, 0.714);
+  padding: 5px 50px 50px 50px;
+  border-radius: 5px;
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 10px 25px rgba(194, 1, 8, 1);
+
+}
