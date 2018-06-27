@@ -1,7 +1,11 @@
+@font-face {
+    font-family: 'niceFont';
+    src: url('../fonts/BenguiatBold.ttf') format("truetype");
+}
+
 li {
   padding: 5px;
   margin: 5px;
-
   border-radius: 3px;
 
 }
@@ -25,9 +29,10 @@ body {
   background-position: right top;
   background-repeat: no-repeat;
   background-attachment: fixed;
+  background-size: auto 100%;
 }
 .container {
-  margin-top: 200px;
+  margin-top: 13%;
   width: 65%;
   margin-left: auto;
   margin-right: auto;
@@ -37,5 +42,6 @@ body {
   border: 1px solid;
   padding: 10px;
   box-shadow: 10px 25px rgba(194, 1, 8, 1);
+  font-family: 'niceFont', Fallback, serif; 
 
 }
