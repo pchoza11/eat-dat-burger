@@ -30,7 +30,7 @@ body {
   background-position: right top;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: auto 100%;
+  background-size: cover;
 }
 .container {
   margin-top: 13%;
@@ -41,8 +41,16 @@ body {
   padding: 5px 50px 50px 50px;
   border-radius: 5px;
   border: 1px solid;
-  padding: 10px;
+  padding: 10px 50px 50px 50px;
   box-shadow: 10px 25px rgba(194, 1, 8, 1);
   font-family: 'niceFont', Fallback, serif; 
 
+}
+h1{
+  font-size: 60px;
+  text-align: center;
+
+}
+.submit {
+  size: 200%;
 }
