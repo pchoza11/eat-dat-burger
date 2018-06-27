@@ -24,6 +24,7 @@ li {
   margin-bottom: 5px;
 }
 body {
+  background-color: #000;
   background-image: url("../images/julesburger.jpg");
   background-image: center;
   background-position: right top;
