@@ -5,4 +5,3 @@ CREATE TABLE burgers (
     createdAt TIMESTAMP NOT NULL,
     PRIMARY KEY (id)
 );
-
